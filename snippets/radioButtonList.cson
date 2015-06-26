@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::radioButtonList':
+    'prefix': 'hrbl'
+    'body': '<?php echo CHtml::radioButtonList(\'${1:name}\', ${2:select}, [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

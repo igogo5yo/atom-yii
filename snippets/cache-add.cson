@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Add cache':
+    'prefix': 'cad'
+    'body': 'Yii::app()->cache->add(\'${1:key}\', ${2:value}, ${3:expire}${4:, new C$5CacheDependency($6)});'

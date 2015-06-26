@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::closeTag':
+    'prefix': 'hct'
+    'body': '<?php echo CHtml::closeTag(\'${1:tag}\'); ?>'

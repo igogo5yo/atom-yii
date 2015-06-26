@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::mailto':
+    'prefix': 'hmt'
+    'body': '<?php echo CHtml::mailto(\'${1:text}\', \'${2:email}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::cdata':
+    'prefix': 'hc'
+    'body': '<?php echo CHtml::cdata(${1:text}); ?>'

@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::form':
+    'prefix': 'hform'
+    'body': '<?php echo CHtml::form([\'${1}\'], \'${2:post}\'${3:, [\'${4:optionName}\' => ${6:optionValue}]}); ?>'

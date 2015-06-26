@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeName':
+    'prefix': 'han'
+    'body': '<?php echo CHtml::activeName(${1:model}, \'${2:attribute}\'); ?>'

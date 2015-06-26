@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::encode':
+    'prefix': 'hec'
+    'body': '<?php echo CHtml::encode(${1:text}); ?>'

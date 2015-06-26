@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii render text':
+    'prefix': 'rt'
+    'body': '\$this->renderText(\'$1\');'

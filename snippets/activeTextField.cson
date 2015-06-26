@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeTextField':
+    'prefix': 'hatf'
+    'body': '<?php echo CHtml::activeTextField(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

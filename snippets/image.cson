@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::image':
+    'prefix': 'himg'
+    'body': '<?php echo CHtml::image(\'${1:src}\', \'${2:alt}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

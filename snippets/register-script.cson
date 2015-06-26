@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii register script':
+    'prefix': 'regs'
+    'body': 'Yii::app()->clientScript->registerScript(\'${1:id}\', \'$2\', CClientScript::POS_${3:READY});'

@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::ajax':
+    'prefix': 'haj'
+    'body': '<?php echo CHtml::ajax([$1]); ?>'

@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::scriptFile':
+    'prefix': 'hjsf'
+    'body': '<?php echo CHtml::scriptFile(\'${1:url}\'); ?>'

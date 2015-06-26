@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CLinkPager':
+    'prefix': 'linkpager'
+    'body': '<?php \$this->widget(\'CLinkPager\', [\'pages\' => \$pages${1:, \'header\' => \'$2\'}]) ?>'

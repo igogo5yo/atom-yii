@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model findAll':
+    'prefix': 'finda'
+    'body': '${1:ModelName}::model()->findAll(${2:condition}${3:, [\'${4:key}\' => ${5:value}]})'

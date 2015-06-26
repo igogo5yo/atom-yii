@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::linkTag':
+    'prefix': 'hlinkt'
+    'body': '<?php echo CHtml::linkTag(\'${1:relation}\', \'${2:type}\', \'${3:href}\', \'${4:media}\'${5:, [\'${6:optionName}\' => ${7:optionValue}]}); ?>'

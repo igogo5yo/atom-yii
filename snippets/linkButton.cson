@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::linkButton':
+    'prefix': 'hlinkb'
+    'body': '<?php echo CHtml::linkButton(\'${1:lable}\'${2:, [\'${3:optionName}\' => ${5:optionValue}]}); ?>'

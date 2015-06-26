@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii params':
+    'prefix': 'par'
+    'body': 'Yii::app()->params[\'$1\']'

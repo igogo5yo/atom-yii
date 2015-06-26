@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::normalizeUrl':
+    'prefix': 'hnurl'
+    'body': '<?php echo CHtml::normalizeUrl([\'$1\']); ?>'

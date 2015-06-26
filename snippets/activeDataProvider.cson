@@ -1,0 +1,17 @@
+'.source.php':
+  'CActiveDataProvider':
+    'prefix': 'cadp'
+    'body': """
+    \$dataProvider = new CActiveDataProvider('$1', [
+        'criteria' => [
+            'condition' => '$2',
+            'order' => '$3',
+            'with' => ['$4']
+        ],
+        //'pagination' => false,
+        'pagination' => [
+            'pageSize' => $5,
+        ],
+    ]);$0
+    // $dataProvider->getData() will return a list of Post objects
+    """

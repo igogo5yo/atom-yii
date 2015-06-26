@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii user isGuest':
+    'prefix': 'isg'
+    'body': 'Yii::app()->user->isGuest'

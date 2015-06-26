@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii register script file':
+    'prefix': 'regsf'
+    'body': 'Yii::app()->clientScript->registerScriptFile(\'${1:scriptUrl}\', CClientScript::POS_${2:END});'

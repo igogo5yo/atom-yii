@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii session offset':
+    'prefix': 'se'
+    'body': 'Yii::app()->session[\'$1\'];'

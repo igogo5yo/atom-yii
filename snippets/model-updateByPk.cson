@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model updateByPk':
+    'prefix': 'updatebp'
+    'body': '${1:ModelName}::model()->updateByPk(${2:pk}, ${3:[\'attributes\']}, ${4:condition}${5:, [\'${6:key}\' => ${7:value}]})'

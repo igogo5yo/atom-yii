@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii import':
+    'prefix': 'imp'
+    'body': 'Yii::import(\'$1\');'

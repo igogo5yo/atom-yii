@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::listData':
+    'prefix': 'hld'
+    'body': '<?php echo CHtml::listData(${1:[$2]}, \'${3:valueField}\', \'${4:textField}\'${5:, \'${6:groupField}\'}); ?>'

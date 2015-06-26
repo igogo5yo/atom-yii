@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::resetButton':
+    'prefix': 'hsb'
+    'body': '<?php echo CHtml::submitButton(\'${1:label}\'${2:, [\'${3:optionName}\' => ${5:optionValue}]}); ?>'

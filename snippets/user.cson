@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii user->':
+    'prefix': 'user'
+    'body': 'Yii::app()->user->$1'

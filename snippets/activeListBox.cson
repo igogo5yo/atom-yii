@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeListBox':
+    'prefix': 'halb'
+    'body': '<?php echo CHtml::activeListBox(${1:model}, \'${2:attribute}\', [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

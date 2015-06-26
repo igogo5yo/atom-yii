@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii requestType':
+    'prefix': 'reqtype'
+    'body': 'Yii::app()->request->requestType'

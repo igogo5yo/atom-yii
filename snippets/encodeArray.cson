@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::encodeArray':
+    'prefix': 'heca'
+    'body': '<?php echo CHtml::encodeArray([$1]); ?>'

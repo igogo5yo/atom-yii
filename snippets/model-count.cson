@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model count':
+    'prefix': 'countm'
+    'body': '${1:ModelName}::model()->count(${2:condition}${3:, [\'${4:key}\' => ${5:value}]})'

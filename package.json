@@ -1,14 +1,13 @@
 {
   "name": "atom-yii",
-  "main": "./lib/atom-yii",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Atom package for works with Yii Framework v1",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-yii:toggle"
   },
-  "repository": "https://github.com/atom/atom-yii",
+  "repository": "https://github.com/igogo5yo/atom-yii",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

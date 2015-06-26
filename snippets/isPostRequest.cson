@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii isPostRequest':
+    'prefix': 'ispost'
+    'body': 'Yii::app()->request->isPostRequest'

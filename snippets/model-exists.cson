@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model exists':
+    'prefix': 'exists'
+    'body': '${1:ModelName}::model()->exists(${2:condition}${3:, [\'${4:key}\' => ${5:value}]})'

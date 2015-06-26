@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::errorSummary':
+    'prefix': 'herrs'
+    'body': '<?php echo CHtml::errorSummary(${1:model}${2:, \'${3:headerHtml}\'}${4:, \'${5:footerHtml}\'}); ?>'

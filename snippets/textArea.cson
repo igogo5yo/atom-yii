@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::textArea':
+    'prefix': 'hta'
+    'body': '<?php echo CHtml::textArea(\'${1:name}\', \'${2:value}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

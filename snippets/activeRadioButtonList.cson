@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeRadioButtonList':
+    'prefix': 'harbl'
+    'body': '<?php echo CHtml::activeRadioButtonList(${1:model}, \'${2:attribute}\', [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

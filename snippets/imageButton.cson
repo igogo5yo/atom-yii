@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::imageButton':
+    'prefix': 'himgb'
+    'body': '<?php echo CHtml::imageButton(\'${1:src}\'${2:, [\'${3:optionName}\' => ${5:optionValue}]}); ?>'

@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model updateAll':
+    'prefix': 'updatea'
+    'body': '${1:ModelName}::model()->updateAll(${2:[\'attributes\']}, ${3:condition}${4:, [\'${5:key}\'=>${6:value}]})'

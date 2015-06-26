@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::openTag':
+    'prefix': 'hot'
+    'body': '<?php echo CHtml::openTag(\'${1:tag}\'${2:, [\'${3:optionName}\' => ${4:optionValue}]}); ?>'

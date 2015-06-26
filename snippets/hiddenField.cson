@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::hiddenField':
+    'prefix': 'hhf'
+    'body': '<?php echo CHtml::hiddenField(\'${1:name}\', \'${2:value}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

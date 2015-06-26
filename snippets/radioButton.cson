@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::radioButton':
+    'prefix': 'hrb'
+    'body': '<?php echo CHtml::radioButton(\'${1:name}\', ${2:false}${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

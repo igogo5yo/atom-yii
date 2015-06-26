@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii renderDynamic internal':
+    'prefix': 'rdi'
+    'body': '\$this->renderDynamic(\'${1:callback}\', [\'${2:key}\' => ${3:value}]);'

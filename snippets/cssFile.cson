@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::cssFile':
+    'prefix': 'hcssf'
+    'body': '<?php echo CHtml::cssFile(\'${1:url}\'${2:, \'${3:media}\'}); ?>'

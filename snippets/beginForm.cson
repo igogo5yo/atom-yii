@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::beginForm':
+    'prefix': 'hbeform'
+    'body': '<?php echo CHtml::beginForm(${1:[\'$2\']}, \'${3:post}\'${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>$0<?php echo CHtml::endForm(); ?>'

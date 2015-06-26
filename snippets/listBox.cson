@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::listBox':
+    'prefix': 'hlb'
+    'body': '<?php echo CHtml::listBox(\'${1:name}\', \'${2:select}\', ${3:[$4]}${5:, [\'${6:optionName}\' => ${7:optionValue}]}); ?>'

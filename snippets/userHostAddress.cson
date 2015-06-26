@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii userHostAddress':
+    'prefix': 'userip'
+    'body': 'Yii::app()->request->userHostAddress'

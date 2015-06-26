@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::dropDownList':
+    'prefix': 'hddl'
+    'body': '<?php echo CHtml::dropDownList(\'${1:name}\', \'${2:select}\', [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

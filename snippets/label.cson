@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::label':
+    'prefix': 'hlabel'
+    'body': '<?php echo CHtml::label(\'${1:label}\', \'${2:for}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeLabelEx':
+    'prefix': 'hale'
+    'body': '<?php echo CHtml::activeLabelEx(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

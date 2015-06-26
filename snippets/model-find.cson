@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model find':
+    'prefix': 'find'
+    'body': '${1:ModelName}::model()->find(${2:condition}${3:, [\'${4:key}\' => ${5:value}]})'

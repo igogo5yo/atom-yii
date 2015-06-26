@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::css':
+    'prefix': 'hcss'
+    'body': '<?php echo CHtml::css(\'${1:test}\'${2:, \'${3:media}\'}); ?>'

@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::ajaxButton':
+    'prefix': 'hajb'
+    'body': '<?php echo CHtml::ajaxButton(\'${1:label}\', \'${2:url}\'${3:, [\'${4:ajaxOptionName}\' => ${5:ajaxOptionValue}]}${6:, [\'${7:optionName}\' => ${8:optionValue}]}); ?>'

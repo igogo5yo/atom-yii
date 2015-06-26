@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii log':
+    'prefix': 'log'
+    'body': 'Yii::log(\'${1:msg}\', CLogger::${2:LEVEL_TRACE|LEVEL_WARNING|LEVEL_ERROR|LEVEL_INFO|LEVEL_PROFILE},\'${3:info}\');'

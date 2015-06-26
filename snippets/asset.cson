@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::asset':
+    'prefix': 'hass'
+    'body': '<?php echo CHtml::asset(\'${1:path}\'); ?>'

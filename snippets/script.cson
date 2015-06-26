@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::script':
+    'prefix': 'hjs'
+    'body': '<?php echo CHtml::script(\'${1:test}\'); ?>'

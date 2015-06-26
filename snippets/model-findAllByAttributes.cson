@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii Model findAllByAttributes':
+    'prefix': 'findaba'
+    'body': '${1:ModelName}::model()->findAllByAttributes(${2:[\'${3:attributeName}\' => ${4:attributeValue}]}, ${5:condition}${6:, [\'${7:key}\' => ${8:value}]})'

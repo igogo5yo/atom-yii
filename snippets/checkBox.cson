@@ -1,0 +1,4 @@
+'.text':
+  'Yii CHtml::checkBox':
+    'prefix': 'hcb'
+    'body': '<?php echo CHtml::checkBox(\'${1:name}\', ${2:false}${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

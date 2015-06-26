@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii register CSS':
+    'prefix': 'regc'
+    'body': 'Yii::app()->clientScript->registerCss(\'${1:id}\', \'$2\');'

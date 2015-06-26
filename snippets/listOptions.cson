@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::listOptions':
+    'prefix': 'hlo'
+    'body': '<?php echo CHtml::listOptions(\'${1:selection}\', ${2:[$3]}${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

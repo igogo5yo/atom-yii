@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeCheckBoxList':
+    'prefix': 'hacbl'
+    'body': '<?php echo CHtml::activeCheckBoxList(${1:model}, \'${2:attribute}\', [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::statefulForm':
+    'prefix': 'hsform'
+    'body': '<?php echo CHtml::statefulForm([\'${1}\'], \'${2:post}\'${3:, [\'${4:optionName}\' => ${6:optionValue}]}); ?>'

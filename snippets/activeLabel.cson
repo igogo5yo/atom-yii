@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::activeLabel':
+    'prefix': 'hal'
+    'body': '<?php echo CHtml::activeLabel(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

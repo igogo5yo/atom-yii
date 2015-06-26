@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::link':
+    'prefix': 'hlink'
+    'body': '<?php echo CHtml::link(\'${1:text}\', ${2:[$3]}${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

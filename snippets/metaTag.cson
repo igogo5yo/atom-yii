@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii CHtml::metaTag':
+    'prefix': 'hmetat'
+    'body': '<?php echo CHtml::metaTag(\'${1:content}\', \'${2:name}\', \'${3:httpEquiv}\', ${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'
