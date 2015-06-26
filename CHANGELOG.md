@@ -6,3 +6,6 @@
 
 ## 0.2.3 - First Release
 * Some information fixes
+
+## 0.2.4 - First Release
+* Add keywords
