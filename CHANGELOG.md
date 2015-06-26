@@ -10,5 +10,5 @@
 ## 0.2.4 - First Release
 * Add keywords
 
-## 0.3.0 - First Release
+## 0.4.0 - First Release
 * Keywords fix
