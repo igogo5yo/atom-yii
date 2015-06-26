@@ -1,6 +1,6 @@
 {
   "name": "atom-yii",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Atom package for works with Yii Framework v1",
   "keywords": [],
   "activationCommands": {
