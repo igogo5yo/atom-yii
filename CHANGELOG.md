@@ -4,5 +4,5 @@
 ## 0.2.0 - First Release
 * Update snippets
 
-## 0.2.2 - First Release
+## 0.2.3 - First Release
 * Some information fixes
