@@ -1,9 +1,8 @@
 {
   "name": "atom-yii",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom package for works with Yii Framework v1",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-yii:toggle"
   },
@@ -12,6 +11,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
