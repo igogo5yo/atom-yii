@@ -1,3 +1,3 @@
 # atom-yii package
 
-Atom package for works with Yii Framework v1
+Atom package for work with Yii Framework v1

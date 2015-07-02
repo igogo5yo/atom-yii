@@ -1,7 +1,7 @@
 {
   "name": "atom-yii",
   "version": "0.4.0",
-  "description": "Atom package for works with Yii Framework v1",
+  "description": "Atom package for work with Yii Framework v1",
   "keywords": [
     "atom",
     "yii",
